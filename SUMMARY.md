@@ -62,11 +62,11 @@
 * [Chapter 2. 바이브코딩으로 MCP server 구현하기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/README.md)
   * [Clip 1: 계산기와 random MCP server 만들기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/Clip1_계산기와_random_MCP_server_만들기.md)
   * [Clip 2: Claude code 에 연결하고 랜덤 값 변경해보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/Clip2_Claude_Code에_연결하고_동작_확인하기.md)
-* [Chapter 3. 우리 회사 DB를 쿼리하는 MCP SERVER 구현하기](part-4.-mcp-server/chapter-3.-db-mcp-server/README.md)
-  * [Clip 1: Postgresql mcp server 구현체 보기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-1-postgresql-mcp-server.md)
-  * [Clip 2: mock 스키마 만들고 데이터 합성해서 집어넣기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-2-mock.md)
-  * [Clip 3: DB write tool 설계하기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-3-db-write-tool.md)
-  * [Clip 4: 클로드에 연결해서 써보기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-4.md)
+* [Chapter 3. 우리 회사 DB를 쿼리하는 MCP SERVER 구현하기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/README.md)
+  * [Clip 1: Postgresql mcp server 구현체 보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip1_Postgresql_MCP_Server_구현체_보기.md)
+  * [Clip 2: mock 스키마 만들고 데이터 합성해서 집어넣기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip2_Mock_스키마_만들고_데이터_합성해서_집어넣기.md)
+  * [Clip 3: DB write tool 설계하기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip3_DB_Write_Tool_설계하기.md)
+  * [Clip 4: 클로드에 연결해서 써보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/Clip4_클로드에_연결해서_써보기.md)
 
 ## Part 5. AI Agent 프로젝트 3개
 
